@@ -1,0 +1,26 @@
+body {
+    background-color: aliceblue;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+      }
+    div {
+        text-align: center;
+        margin: auto;
+      }
+    
+    h3 {
+        margin-left: 30px;
+    }
+    p { margin-left: 100px;}
+    li { margin-left: 100px;}
+    hr {
+      width: 50%;
+    }
+    h2{
+      text-align: left;
+      position: absolute; top: 0; left;: 0
+    }
+    
